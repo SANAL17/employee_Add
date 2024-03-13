@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=DM+Serif+Display:ital@0;1&family=Lobster&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+    font-family: "Abril Fatface", serif;
+}
+.details{
+    padding: 15px;
+width: 430px;
+}
+
+#button{
+    width: 400px;
+    margin-left: 15px;
+}
+
+.main{
+    background-color: #fff;
+    box-shadow: 80px 20px 10px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 15%;
+    margin-top: 120px;
+    padding: 30px;
+}
+
+.main1{
+    display: flex;
+}
+
+.sub1{
+   padding: 10px;
+   margin-left: 200px;
+}
+
+.sub1 button{
+    width: 200px;
+}
+
+.sub1 input{
+    width: 350px;
+}
+
+.sub{
+    margin-top: 200px;
+    margin-left: 100px;
+}
